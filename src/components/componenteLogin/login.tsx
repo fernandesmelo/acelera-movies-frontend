@@ -1,12 +1,12 @@
 import Image from "next/image";
-import imageLogin from "@/public/assets/login.jpg"
+import imagemLogin from "@/public/assets/login.jpg"
 
 export default function componenteLogin() {
     return (
-        <main>
+        <main className="flex">
             <div bg-red-900>
                 <Image
-                    src={imageLogin}
+                    src={imagemLogin}
                     alt="fsdbsab"
                     style={{width:"100%", height:"100%"}}
                     />

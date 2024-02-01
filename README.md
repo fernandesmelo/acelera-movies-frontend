@@ -49,7 +49,7 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 
 1. Clone este repositório:
    <br>
-   ```git clone https://github.com/fernandesmelo/projeto-integrador-etepd.git```
+   ```git clone https://github.com/fernandesmelo/acelera-movies-frontend.git```
 
 2. Abra o Visual Studio Code:
    * Clique em "Arquivo" (ou "File") no canto superior esquerdo da janela.
@@ -64,10 +64,7 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
    ```npm install```
 2. Executando o Projeto Localmente:
    <br>
-   * Utilize um servidor local para executar o projeto, você pode usar ferramentas como Live Server ou qualquer outro servidor web local.
-   * Exemplo usando Live Server:
-     ```npm install -g live-server``` 
-     ```live-server ```
+     ```npm run dev``` 
 3. Visualizando o Projeto no Navegador:
    * Abra o seu navegador web e acesse o endereço fornecido pelo servidor local para visualizar o projeto.
 5. Explorando o Código no VSCode:

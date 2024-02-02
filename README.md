@@ -71,8 +71,7 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
    * Continue explorando e editando o código no VSCode. As alterações serão refletidas automaticamente no aplicativo em execução.
 
 ### 🎉 Parabéns!
-Agora você tem o projeto React Native instalado, configurado e rodando localmente e na web. Bom desenvolvimento!
-
+Agora você tem o projeto instalado, configurado e rodando localmente e na web. Bom desenvolvimento!
 
 
 ## ⚙️ Executando os Testes
@@ -83,19 +82,27 @@ Próximos passos...
 
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
+  <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
 ## 🔨 Tomada de Decisões
 
 * **HTML**: O HTML é a linguagem de marcação utilizada para estruturar o conteúdo do site, definindo elementos como cabeçalhos, parágrafos, listas e links.
 
-* **CSS**: O CSS é utilizado para estilizar o site, controlando a aparência visual, incluindo cores, fontes, layout e posicionamento de elementos.
+* **Tailwind CSS**: Framework CSS que adota uma abordagem Utility-First, estiliza elementos HTML através de classes diretamente aplicadas, elimina a necessidade de escrever CSS personalizado em muitos casos e oferece uma experiência de estilo altamente customizável e modular.
 
-* **JavaScript**: A linguagem JavaScript foi usada para adicionar interatividade ao site, como a validação do formulário de contato e a implementação de funcionalidades específicas, como menus de navegação responsivos.
+* **Typescript**: Superset de JavaScript que adiciona tipagem estática, ajuda a capturar erros em tempo de compilação, melhora a qualidade e a robustez do código e integra-se facilmente com ferramentas modernas de desenvolvimento.
 
-* **Arquivos .json**: db.json foi usado como um banco de dados simples para aplicativos web, enquanto package.json e package-lock.json são usados para gerenciar dependências e metadados do projeto em projetos Node.js, garantindo consistência e reprodutibilidade em diferentes ambientes de desenvolvimento e produção.
+* **Node.js**: Ambiente de tempo de execução JavaScript baseado no motor V8 do Chrome, permite que o JavaScript seja executado no lado do servidor, facilita a construção de aplicativos web escaláveis e orientados a eventos, oferece um ecossistema robusto de pacotes e ferramentas através do npm (Node Package Manager) e suporta a construção de APIs RESTful, serviços web e aplicações em tempo real.
+
+* **React**: Biblioteca JavaScript para construção de interfaces de usuário, utiliza componentes reutilizáveis para modularizar a UI, adota o conceito de Virtual DOM para atualizações eficientes e favorece o modelo de dados unidirecional para gerenciamento de estado.
+
+* **Next.js**: Framework React para construção de aplicações web, oferece suporte nativo a SSR (Server-Side Rendering) e SSG (Static Site Generation), facilita o roteamento dinâmico e a criação de APIs RESTful e melhora a velocidade de carregamento, SEO e a experiência do usuário.
+
+* **Arquivos .json**: package.json e package-lock.json são usados para gerenciar dependências e metadados do projeto em projetos Node.js, garantindo consistência e reprodutibilidade em diferentes ambientes de desenvolvimento e produção.
 
 ## 👨🏽‍💻 Versão das Tecnologias
 

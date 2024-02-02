@@ -90,7 +90,7 @@ Próximos passos...
 
 ## 🔨 Tomada de Decisões
 
-* **HTML**: O HTML é a linguagem de marcação utilizada para estruturar o conteúdo do site, definindo elementos como cabeçalhos, parágrafos, listas e links.
+* **HTML**: Linguagem de marcação utilizada para estruturar o conteúdo do site, definindo elementos como cabeçalhos, parágrafos, listas e links.
 
 * **Tailwind CSS**: Framework CSS que adota uma abordagem Utility-First, estiliza elementos HTML através de classes diretamente aplicadas, elimina a necessidade de escrever CSS personalizado em muitos casos e oferece uma experiência de estilo altamente customizável e modular.
 

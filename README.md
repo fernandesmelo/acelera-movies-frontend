@@ -107,8 +107,11 @@ Próximos passos...
 ## 👨🏽‍💻 Versão das Tecnologias
 
 * HTML5
-* CSS3
-* JavaScript ECMAScript 6 (ES6)
+* Tailwind CSS 3.4.1
+* Typescript 5.3.3
+* Node.js 18.17.0
+* React 18.2.0
+* Next.js 14.1.0
 
 ## ✒️ Autor
 
@@ -116,4 +119,4 @@ Próximos passos...
 
 ## 🎁 Expressões de Gratidão
 
-Agradeço a [Programa ONE](https://www.oracle.com/br/education/oracle-next-education/), a [Alura](https://www.linkedin.com/school/aluracursos/) e aos instrutores dos mesmos por me proporcionar esse desafio 🫂.
+Agradeço a [Danielle Madrid](https://www.linkedin.com/in/daniellermadrid/), que foi nossa mentora nesse projeto e aos meus colegas da Aceleradora Ágil por toda ajuda 🫂.
